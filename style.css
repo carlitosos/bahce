@@ -1,0 +1,6 @@
+input[type="radio"]:checked + span {
+    color: red;
+}
+.checkbox:checked + .box {
+    display: none;
+}
